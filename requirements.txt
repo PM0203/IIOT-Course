@@ -1,0 +1,8 @@
+paho-mqtt>=1.6
+psycopg2-binary>=2.9
+sqlalchemy>=1.4
+pandas>=1.4
+plotly>=5.0
+streamlit>=1.12
+numpy>=1.21
+sense-hat>=2.2.0
